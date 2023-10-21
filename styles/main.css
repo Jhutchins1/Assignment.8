@@ -10,7 +10,7 @@ html {
 body {
     background: #B3DFE3;
     text-align: center; 
-    justify-content: center;
+    align-items:center; 
     margin: 50px; 
     padding: 70px;
 
@@ -41,3 +41,7 @@ p {
     padding: 50px; 
 }
 
+
+@media (max-width: 768px) { 
+    
+}
